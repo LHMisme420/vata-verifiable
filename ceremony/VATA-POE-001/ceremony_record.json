@@ -1,0 +1,8 @@
+{
+  "ceremony_id": "VATA-POE-001",
+  "manifest_hash": "0xd091fc38471e9e05704cad591d1c91be3a538631c5f67df919f6f363e703b5d0",
+  "merkle_root": "0xd091fc38471e9e05704cad591d1c91be3a538631c5f67df919f6f363e703b5d0",
+  "anchor_tx": "0xed9958906d84cbd56863effc6f318521cf45787ee06ec66a7564530496f690eb",
+  "anchor_contract": "0xe0C202DF9D1d0187d84f4b94c8966cA6CD9c4d8e",
+  "network": "ethereum-sepolia"
+}
